@@ -1,0 +1,11 @@
+Clase01 - Como mostrar un personaje en la pantalla
+
+Clase02 - Como agregar un enemigo en la pantalla
+
+Clase03 - Como hacer que ambos personajes se muevan
+
+Clase04 - Como hacer que colisionen
+
+Clase 05 - Como realizar un salto 'correctamente' (dinamica del salto)
+
+Clase 06 - Acomodar estructuras (superclases) y darle un cierre al juego
